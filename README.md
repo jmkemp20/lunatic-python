@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/jmkemp20/pydevp2p?style=for-the-badge)](https://github.com/jmkemp20/pydevp2p/blob/main/LICENSE.txt)
+[![License](https://img.shields.io/github/license/jmkemp20/lunatic-python?style=for-the-badge)](https://github.com/jmkemp20/lunatic-python/blob/main/LICENSE.txt)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -9,7 +9,7 @@
   <p align="center">
     A Toolkit Helper Library for Ethereum ECIES and Devp2p
     <br />
-    <a href="https://github.com/jmkemp20/pydevp2p"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jmkemp20/lunatic-python"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://labix.org/lunatic-python">original</a>

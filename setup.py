@@ -22,7 +22,7 @@ presult, poutput = commands.getstatusoutput("pkg-config --exists lua5.2")
 HAS_LUA5_2 = (presult == 0)
 
 # You may have to change these
-LUAVERSION = "5.3"
+LUAVERSION = "5.2"
 
 PYTHONVERSION = get_python_version()
 PYLIBS = ["python" + get_python_version(), "pthread", "util"]
